@@ -409,9 +409,10 @@ Removing a Host from DNS
 If you remove a host from your environment or want to just take it out of DNS, just remove all the things that were added when you added the server to DNS (i.e. the reverse of the previous steps).
 
 * _Source_:
-![Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-20-04#configuring-the-local-file)
+![Digital Ocean Ubuntu 20-04](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-20-04#configuring-the-local-file)
 
-![Source 2](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-22-04)
+* _Source2_:
+![Digital Ocean Ubuntu 22-04](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-22-04)
 
 
 
